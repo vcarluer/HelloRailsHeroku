@@ -19,7 +19,7 @@ var helloWorld = new Ext.Application({
 								title:'Accueil',
 								iconCls:'favorites',
 								cls:'tab1',
-								html:'Accueil',
+								html:'Accueil. Vers l\'application <a href=index2.html>PhoneGap</a>',
 							 },
                               {
 							  title:'Info',
